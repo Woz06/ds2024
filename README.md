@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: USTH ICT1
-* Student ID: Not-Vietnamese
+* Student Name: Nguyen Cong Quoc
+* Student ID: BI12-375
 * Student Group ID: Not-for-now
